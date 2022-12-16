@@ -19,7 +19,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"Roberto Corizzo"},"description":"Students develop programming skills that serve as a foundation for further study in computer science.","headline":"CSC 208 Introduction to Computer Science II","name":"CSC 208 Introduction to Computer Science II","url":"/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="CSC 208 | Introduction to Computer Science II" /></head>
+<link rel="stylesheet" href="ain.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="CSC 208 | Introduction to Computer Science II" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">CSC 208 | Introduction to Computer Science II</a><nav class="site-nav">
@@ -86,7 +86,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">Bei Xiao</li><li><a class="u-email" href="mailto:bei.xiao@american.edu">bei.xiao@american.edu</a></li></ul>
+          <li class="p-name">Bei Xiao</li><li><a class="u-email" href="mailto:rcorizzo@american.edu">bei.xiao@american.edu</a></li></ul>
       </div>
 
       <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
